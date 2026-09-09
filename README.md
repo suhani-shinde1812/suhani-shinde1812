@@ -31,62 +31,33 @@
 <tr>
 <td width="50%" valign="top">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 CogniSphere
-**Personal Cognitive Memory Operating System**
-
-A personal AI memory system designed to help users store, search, and retrieve information intelligently. It combines **FAISS and BM25** with Reciprocal Rank Fusion for better retrieval, along with six custom AI engines including an **ACMA-based re-ranker**.
-
-It also has a three-level AI fallback system — **Ollama → Groq → rule-based processing** — so the system can continue working even when an LLM is unavailable.
-
-**Tech:** FastAPI · SQLite · FAISS · BM25 · Ollama · Groq  
-📄 **Patent Filed · Scopus Q1 Paper in Progress**
+**🧠 CogniSphere**
+*Personal Cognitive Memory Operating System*
+Hybrid FAISS + BM25 retrieval fused via Reciprocal Rank Fusion, six custom AI engines (incl. ACMA re-ranking), three-tier LLM fallback (Ollama → Groq → rule-based). FastAPI + SQLite backend.
+📄 Patent filed · Scopus Q1 paper in progress
 
 </td>
-
 <td width="50%" valign="top">
 
-### ✅ NexusMind
-**Full-Stack Team Task Management Platform**
-
-A collaborative task management platform built to make team coordination smarter and more efficient.
-
-It includes **JWT authentication, real-time WebSocket synchronization, AI-based task reassignment, heuristic risk scoring**, and an AI assistant powered by Anthropic.
-
-**Tech:** Vanilla JS · Vite · FastAPI · PostgreSQL · Redis · Anthropic API
+**✅ NexusMind**
+*Full-stack team task management platform*
+JWT auth, WebSocket live sync, embedding-based task reassignment, heuristic risk scoring, and an Anthropic-backed assistant agent. Vanilla JS/Vite + FastAPI + PostgreSQL + Redis.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Yorai
-**Browser-Native AI Security Platform**
-
-A browser security tool that helps users identify potentially dangerous websites and online threats before they become a problem.
-
-Yorai performs **real-time URL scanning, phishing and reputation checks, fake-login detection, prompt-injection detection**, and credential leak checks using HaveIBeenPwned.
-
-It also comes with a **Chrome Manifest V3 extension** for browser-level protection.
-
-**Tech:** TanStack Start · React 19 · Firebase · Chrome Extension · Manifest V3
+**🛡️ Yorai**
+*Browser-native AI security platform*
+Real-time URL scanning, phishing/reputation checks, fake-login & prompt-injection detection, credential leak checks via HaveIBeenPwned. TanStack Start (React 19) + Firebase + Chrome Manifest V3 extension.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 💄 Suiis Beauty
-**Luxury E-Commerce Platform + BeautyDNA AI**
-
-A modern luxury beauty platform combining e-commerce with AI-powered skin analysis.
-
-Along with the complete storefront and **admin & seller dashboards**, the BeautyDNA module uses **Gemini Vision** to analyze skin and generate visual scores using animated SVG gauges.
-
-**Tech:** React · Vite · Express · MongoDB · Gemini Vision API
+**💄 Suiis Beauty**
+*Luxury e-commerce platform + BeautyDNA AI*
+Full storefront with admin & seller dashboards. BeautyDNA module uses Gemini Vision API for real skin analysis with animated SVG score gauges. React + Vite + Express + MongoDB.
 
 </td>
 </tr>
