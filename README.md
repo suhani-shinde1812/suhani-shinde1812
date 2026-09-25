@@ -76,8 +76,8 @@ Full storefront with admin & seller dashboards. BeautyDNA module uses Gemini Vis
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=987654320-suha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=987654320-suha&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suhani-shinde812&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani-shinde1812&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
